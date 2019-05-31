@@ -1820,3 +1820,23 @@ body {
 .cid-rr6HdQMqys .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rs3Q15Ml3Q {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+@media (min-width: 992px) {
+  .cid-rs3Q15Ml3Q .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rs3Q15Ml3Q .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rs3Q15Ml3Q .mbr-text {
+    text-align: center;
+  }
+}
