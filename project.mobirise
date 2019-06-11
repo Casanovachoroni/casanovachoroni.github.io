@@ -26,8 +26,7 @@
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
-      },
-      "additionalSetColors": []
+      }
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.0",
